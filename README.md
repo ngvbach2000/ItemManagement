@@ -1,5 +1,7 @@
 # Item Management
-Lab 1: Item Management (FPT Univesity HCM)
+Lab 1: Item Management 
+(FPT Univesity HCM)
+(Java Desktop)
 
 ## Program Specifications:
 In this assignment, you are required to build an items management application, in the form of a desktop application. The program has basic functions: login, add-delete-edit item and supplier’s information. You are required to use the basic components to design interfaces, use the tabbed pane to organize item management and supplier management on the one screen. The database used is the Microsoft SQL Server. Program organization must clearly separate functions according to MVC model.
