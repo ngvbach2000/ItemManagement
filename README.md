@@ -1,6 +1,5 @@
 # Item Management
 Lab 1: Item Management 
-(FPT Univesity HCM)
 (Java Desktop)
 
 ## Program Specifications:
