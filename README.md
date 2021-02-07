@@ -1,14 +1,14 @@
 # ItemManagement
 Lab 1: Item Management (FPT Univesity HCM)
 
-##Program Specifications:
+## Program Specifications:
 In this assignment, you are required to build an items management application, in the form of a desktop
 application. The program has basic functions: login, add-delete-edit item and supplier’s information. You are
 required to use the basic components to design interfaces, use the tabbed pane to organize item management
 and supplier management on the one screen. The database used is the Microsoft SQL Server.
 Program organization must clearly separate functions according to MVC model.
 
-##Features:
+## Features:
 - Login
  o In order to access the supplier and item management, an authentication is required.
  o The actor enters userID and password, the function checks if the userID with the password is in the available user list, then grant the access permission. If not, a message would appear no notify that user is not found.
